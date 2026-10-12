@@ -4,6 +4,8 @@ EasyPay is a Python-based hourly pay calculator created as a midterm project for
 
 The program accepts basic employee and pay information, calculates regular and overtime pay, applies a simplified estimated deduction rate, and displays a formatted pay summary.
 
+<img width="695" height="725" alt="image" src="https://github.com/user-attachments/assets/fdd1f5c3-b872-4c66-8154-51ba40ff4bc0" />
+
 ## Features
 
 EasyPay allows the user to enter:
